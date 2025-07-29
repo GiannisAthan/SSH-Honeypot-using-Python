@@ -7,7 +7,8 @@ This project implements a basic SSH honeypot in Python, inspired by The Security
 
 This is a research/educational honeypot, not intended to provide real SSH access.
 
-🔍 Key Features
+🔍 Key Features:
+
 ✅ Python-based fake SSH server
 
 ✅ Listens for unauthorized SSH login attempts
