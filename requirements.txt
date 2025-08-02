@@ -1,0 +1,7 @@
+This file contains a set of requirements that are needed in order to make the code work but to also check on the progress being made:
+
+1) import of libraries socket and paramiko.
+
+2) In order to connect to the ssh server we need to create a permanent key for the connection. We use the command:
+	* ssh-keygen -t rsa -b 2048 -f key
+
